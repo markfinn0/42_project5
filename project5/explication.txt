@@ -1,0 +1,11 @@
+Como rodar:
+Execute o aplicativo Flask com o comando:
+
+bash
+Copiar código
+python app.py
+Teste os endpoints:
+
+API3:2023: Acesse http://localhost:5000/users/1 para ver as informações de um usuário e use PATCH para modificar propriedades sensíveis como o salário.
+API8:2023: Acesse http://localhost:5000/debug para visualizar informações sensíveis como variáveis de ambiente e configurações do aplicativo.
+Esse código demonstra como as vulnerabilidades podem ser exploradas e destaca os pontos que precisam ser corrigidos em um ambiente real.
